@@ -40,6 +40,7 @@ public class RemovedDuplicateSortArray {
     
 }
 
+
 class Solution {
     public int removeDuplicates(int[] nums) {
 
